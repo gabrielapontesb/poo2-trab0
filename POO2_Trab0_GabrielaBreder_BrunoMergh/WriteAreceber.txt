@@ -1,7 +1,0 @@
-O Cliente: Bruno nos deve a quantia de R$4.79
-O Cliente: Ana nos deve a quantia de R$4.51
-O Cliente: Gabi nos deve a quantia de R$4.16
-O Cliente: João nos deve a quantia de R$2.77
-O Cliente: Pedro nos deve a quantia de R$5.87
-O Cliente: Guilherme nos deve a quantia de R$9.22
-O Cliente: pedroka nos deve a quantia de R$0
