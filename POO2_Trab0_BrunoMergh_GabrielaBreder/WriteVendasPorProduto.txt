@@ -1,0 +1,6 @@
+Descricao do Produto;Total de venda bruta;Total de lucro 
+leite;9.9;3.3
+pão doce;2.73;0.78
+pão de sal;2.77;0.93
+pó de café;12.6;4.2
+miojo;3.31;1.47

@@ -1,7 +1,0 @@
-Cliente;quantia a receber
-Bruno;4.79
-Ana;4.51
-Gabi;4.16
-João;2.77
-Pedro;5.87
-Guilherme;9.22
